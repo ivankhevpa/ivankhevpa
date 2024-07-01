@@ -1,9 +1,10 @@
 ![Header](https://github.com/ivankhevpa/ivankhevpa/blob/317e71ff7b76333f73cbf8db496f8baca0d0cfa8/assets/header.png)
 
-## Hi there 👋
-## I am beginner QA Engineer
+## Hi there 👋 I'm a QA engineer and I love testing
 
-My CV
+## [My CV](https://drive.google.com/file/d/16VxDGRNlFSrGtasGH5psmnVlFFNNw6Ft/view?usp=sharing)
+
+
 
 ### Tools and technologies
 
