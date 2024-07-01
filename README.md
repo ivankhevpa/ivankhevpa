@@ -22,4 +22,3 @@ Portfolio
 
 [![Telegram](https://img.shields.io/badge/-Telegram-F2F0E6?style=for-the-badge&logo=Telegram)](https://t.me/ivankhevpa)
 [![LinkeDin](https://img.shields.io/badge/-Linkedin-318CE7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivan-khevpa-aa0979129)
-[![Email](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKnXGLsGJMnmbcccfbLHbbJBMrGzhhMFnbHjVhCKRTwSHsBmNwTwPHZXHDlnpttpTlsnfn)
