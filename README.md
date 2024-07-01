@@ -3,8 +3,6 @@
 ## Hi there 👋
 ## I am beginner QA Engineer
 
-About me
-
 My CV
 
 ### Tools and technologies
@@ -18,8 +16,10 @@ My CV
 ![Fiddler](https://img.shields.io/badge/-Fiddler-1FC81F?style=for-the-badge&logo=Telerik)
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-318CE7?style=for-the-badge&logo=AzureDevOps)
 
-
-
 Portfolio
 
-Follow me
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-F2F0E6?style=for-the-badge&logo=Telegram)](https://t.me/ivankhevpa)
+[![LinkeDin](https://img.shields.io/badge/-Linkedin-318CE7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivan-khevpa-aa0979129)
+[![Email](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail)](ivankhevpa@gmail.com)
