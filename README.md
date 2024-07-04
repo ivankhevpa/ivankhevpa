@@ -20,9 +20,7 @@
 
 ## Portfolio
 
-### [TestCases](https://github.com/ivankhevpa/Test-Cases)
-### [Checklist]()
-### [Bug-reports]
+### [Testing_Documentation](https://github.com/ivankhevpa/Test-Cases)
 ### [TestDesign]
 ### [API]
 ### [SQL]
