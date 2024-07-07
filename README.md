@@ -1,5 +1,3 @@
-![Header](https://github.com/ivankhevpa/ivankhevpa/blob/main/assets/New.png)
-
 ## Hi there 👋 I'm a QA engineer and I love testing!
 
 
