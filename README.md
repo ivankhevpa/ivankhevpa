@@ -17,7 +17,6 @@
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-318CE7?style=for-the-badge&logo=)
 
 ##
----
 
 ### **Portfolio :**
 
