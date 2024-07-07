@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![MySQL](https://img.shields.io/badge/-MySQL-F9EDFD?style=for-the-badge&logo=MySQL)
 ![ChromeDevTools](https://img.shields.io/badge/-DEvTools-F9EDFD?style=for-the-badge&logo=GoogleChrome)
-![Fiddler](https://img.shields.io/badge/-Fiddler-1FC81F?style=for-the-badge&logo=)
+![Fiddler](https://img.shields.io/badge/-Fiddler-26C871?style=for-the-badge&logo=)
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-318CE7?style=for-the-badge&logo=)
 
 ##
