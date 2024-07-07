@@ -15,13 +15,13 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![MySQL](https://img.shields.io/badge/-MySQL-F9EDFD?style=for-the-badge&logo=MySQL)
 ![ChromeDevTools](https://img.shields.io/badge/-DEvTools-F9EDFD?style=for-the-badge&logo=GoogleChrome)
-![Fiddler](https://img.shields.io/badge/-Fiddler-1FC81F?style=for-the-badge&logo=Telerik)
-![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-318CE7?style=for-the-badge&logo=AzureDevOps)
+![Fiddler](https://img.shields.io/badge/-Fiddler-1FC81F?style=for-the-badge&logo=()
+![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-318CE7?style=for-the-badge&logo=)
 
 ## Portfolio
 
 ### [Testing_Documentation](https://github.com/ivankhevpa/Test-Cases)
-### [TestDesign]
+### [Test_Design_Techniques](https://github.com/ivankhevpa/Test_Design_Techniques)
 ### [API](https://github.com/ivankhevpa/API)
 ### [SQL](https://github.com/ivankhevpa/SQL)
 
