@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm a QA engineer and I love testing!
 
 
-## <a href="https://drive.google.com/file/d/16VxDGRNlFSrGtasGH5psmnVlFFNNw6Ft/view" target="_blank" title="My CV">My CV</a>
+## <a href="https://drive.google.com/file/d/1aYDZhn6lAv_t8cgdjwD84124q3J7v2F8/view?usp=sharing" target="_blank" title="My CV">My CV</a>
 
 
 
